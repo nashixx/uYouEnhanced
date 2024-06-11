@@ -28,6 +28,7 @@ jobs:
           git submodule add https://github.com/hbang/Alderis.git Tweaks/Alderis
           git submodule add https://github.com/PoomSmart/IAmYouTube.git Tweaks/IAmYouTube
           git submodule add https://github.com/PoomSmart/NoYTPremium.git Tweaks/NoYTPremium
+          git submodule add https://github.com/arichornlover/Return-YouTube-Dislikes.git Tweaks/Return-YouTube-Dislikes
           git add .
           git commit -m "added uYouEnhanced submodules"
           git push origin
